@@ -1,2 +1,2 @@
 # datasciencecoursera
-Wor for Data Science specialization in Coursera
+Work for Data Science specialization in Coursera
